@@ -2,7 +2,7 @@
 body {
   background-color: #ffffff; /* white */
   color: #222;               /* dark text */
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* font */
+  font-family: 'Aptos', sans-serif; /* font */
   line-height: 1.6;
   margin: 20px;
 }
