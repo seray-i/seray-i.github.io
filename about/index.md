@@ -3,7 +3,7 @@ title: About me
 ---
 <!-- Side-by-side image and text -->
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="//seray_pic_round.png" alt="My Photo" width="150" style="border-radius: 50%;">
+  <img src="/seray_pic_round.png" alt="My Photo" width="150" style="border-radius: 50%;">
   <div>
 I am a lecturer (assistant professor) in the [School of Health and Social Care] (https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
 My research explores the design and use of digital technology for supporting social interaction. 
