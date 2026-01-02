@@ -8,7 +8,7 @@ My research explores the design and use of digital technology for supporting soc
 Informed by my interdisciplinary training across speech and language therapy, human computer interaction (HCI), augmentative and alternative communication (AAC), multimodality and psychology, I am committed to bringing together different disciplinary perspectives and innovative methods to examine and address complex social problems. 
  </div>
 
-## My projects have focused on:
+My projects have focused on:
 - Digitally-mediated in-person communication that involves non-speaking or minimally verbal children and their social partners
 - Personalised learning and literacy technologies for the classroom
 - Mental health interventions for children and parents
