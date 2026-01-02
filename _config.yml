@@ -1,0 +1,12 @@
+# Site settings
+title: Seray Ibrahim
+description: Academic Website of Seray Ibrahim
+theme: minima
+
+# Navigation links
+nav:
+  - Home: /
+  - About: /about/
+  - Projects: /projects/
+  - Publications: /publications/
+  - Academic Service / Awards: /academic-service-awards/
