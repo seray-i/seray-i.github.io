@@ -1,11 +1,14 @@
 ---
 title: About me
 ---
-
-| ![My Photo](/seray_pic_round.png){width=50px} | I am a lecturer (assistant professor) in the [School of Health and Social Care] (https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
+<!-- Side-by-side image and text -->
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="//seray_pic_round.png" alt="My Photo" width="150" style="border-radius: 50%;">
+  <div>
+I am a lecturer (assistant professor) in the [School of Health and Social Care] (https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
 My research explores the design and use of digital technology for supporting social interaction. 
-Informed by my interdisciplinary training across speech and language therapy, human computer interaction (HCI), augmentative and alternative communication (AAC), multimodality and psychology, I am committed to bringing together different disciplinary perspectives and innovative methods to examine and address complex social problems. |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+Informed by my interdisciplinary training across speech and language therapy, human computer interaction (HCI), augmentative and alternative communication (AAC), multimodality and psychology, I am committed to bringing together different disciplinary perspectives and innovative methods to examine and address complex social problems. 
+ </div>
 
 ## My projects have focused on:
 - Digitally-mediated in-person communication that involves non-speaking or minimally verbal children and their social partners
@@ -16,5 +19,4 @@ I have a publication record and best paper awards in premier international confe
 
 For pre-prints of publications please see [ResearchGate] (https://www.researchgate.net/profile/Seray-Ibrahim).
  </div>
-</div>
 
