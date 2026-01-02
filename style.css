@@ -1,0 +1,29 @@
+/* Body background & text color */
+body {
+  background-color: #f4f4f9; /* light gray background */
+  color: #222;               /* dark text */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* font */
+  line-height: 1.6;
+  margin: 20px;
+}
+
+/* Navigation styling */
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #1a73e8;
+  margin-right: 15px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: "Georgia", serif;
+  color: #333;
+}
