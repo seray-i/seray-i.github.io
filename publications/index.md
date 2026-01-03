@@ -24,7 +24,8 @@ Amira Skeggs, A., Mehta, A., Yap, V., Ibrahim, S., Rhodes, A., Gross, J., Munson
 CHI ’25, Yokohama, Japan - **Honorable mention paper award**
 
 [Uncovering Parental Struggles: Using Digital Probes to Analyse Challenges in Applying Online Parenting Content](https://doi.org/10.1145/3762810){:target="_blank"}. 
-Ibrahim, S., Dabrowski, J., Antle, A., Kientz, J., Chesters, A., Slovak, P. ACM Trans. Compt.-Hum.Interact.
+Ibrahim, S., Dabrowski, J., Antle, A., Kientz, J., Chesters, A., Slovak, P. 
+ACM Trans. Compt.-Hum.Interact.
 
 **2024**
 
