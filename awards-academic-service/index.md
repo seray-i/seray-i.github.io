@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Awards + Academic Service
+nav_order: 4
 ---
 
 ## Grants & funding
