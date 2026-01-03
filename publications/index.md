@@ -5,13 +5,30 @@ permalink: /publications/
 nav_order: 3
 ---
 
+A full list of publications can be found [here](https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao){:target="_blank"} 
+
 **Conferences and Journals**
 
-Ibrahim, S., Dabrowski, J., Antle, A., Kientz, J., Chesters, A., Slovak, P. (2025) Uncovering Parental Struggles: Using Digital Probes to Analyse Challenges in Applying Online Parenting Content. ACM Trans. Compt.-Hum.Interact. (August 2025). https://doi.org/10.1145/3762810)
+**2025**
 
-Ibrahim, S., Klasnja, P., Gross, J., & Slovak, P. 2025. Designing Daily Supports for Parent-Child Conversations about Emotion: Ecological Momentary Assessment as Intervention. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, 21 pages. https://doi.org/10.1145/3706598.3713848 – Honorable mention paper award (within top 5% of 5,014 submissions)
+[Uncovering Parental Struggles: Using Digital Probes to Analyse Challenges in Applying Online Parenting Content](https://doi.org/10.1145/3762810){:target="_blank"}. 
 
-Viswanathan, S., Ibrahim, S., Shankar, R., Binns, R., Van Kleek, M., and Slovak, P. 2025. The Interaction Layer: An Exploration for Co-Designing User-LLM Interactions in Parental Wellbeing Support Systems. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, 25 pages. https://doi.org/10.1145/3706598.3714088
+Ibrahim, S., Dabrowski, J., Antle, A., Kientz, J., Chesters, A., Slovak, P.
+
+ACM Trans. Compt.-Hum.Interact.
+
+
+[Designing Daily Supports for Parent-Child Conversations about Emotion: Ecological Momentary Assessment as Intervention.](https://doi.org/10.1145/3706598.3713848){:target="_blank"}
+
+Ibrahim, S., Klasnja, P., Gross, J., & Slovak, P.
+
+CHI Conference on Human Factors in Computing Systems (CHI ’25), Yokohama, Japan. – **Honorable mention paper award (within top 5% of 5,014 submissions)**
+
+[The Interaction Layer: An Exploration for Co-Designing User-LLM Interactions in Parental Wellbeing Support Systems.](https://doi.org/10.1145/3706598.3714088){:target="_blank"}
+
+Viswanathan, S., Ibrahim, S., Shankar, R., Binns, R., Van Kleek, M., and Slovak, P. 2025.
+
+CHI ’25, Yokohama, Japan.
 
 Amira Skeggs, A., Mehta, A., Yap, V., Ibrahim, S., Rhodes, A., Gross, J., Munson, S., Klasnja, P., Orben, A., and Slovak, P. 2025. Micro-narratives: A Scalable Method for Eliciting Stories of People’s Lived Experience. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, 20 pages. https://doi.org/10.1145/3706598.3713999 – Honorable mention paper award (within top 5% of 5,014 submissions)
 
