@@ -44,12 +44,6 @@ Informed by interdisciplinary training across speech and language therapy, human
   </div>
 </div>
 
-## My projects have focused on:
-
-- Digitally-mediated in-person communication that involves non-speaking or minimally verbal children and their social partners
-- Personalised learning and literacy technologies for the classroom
-- Mental health interventions for children and parents
-
 I have a publication record and best paper awards in premier international conferences such as the Conference on Human Factors in Computing Systems (CHI) and Interaction Design and Children (IDC). I have published across journals that include Disability and Society, AAC journal and British Journal of Educational Technology. Beyond academia, I regularly work with colleagues from the NHS, charity sector and school settings to generate impactful solutions based on evidence based research.
 
 For pre-prints of publications please see [ResearchGate](https://www.researchgate.net/profile/Seray-Ibrahim){:target="_blank"}.
