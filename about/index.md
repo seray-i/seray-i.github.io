@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 exclude: true
+nav_order: 1
 ---
 <div class="side-by-side">
  <img src="/seray_pic_round.png" alt="My Photo" width="250">
