@@ -5,7 +5,7 @@ permalink: /publications/
 nav_order: 3
 ---
 
-## Conferences and Journals
+**Conferences and Journals**
 Ibrahim, S., Dabrowski, J., Antle, A., Kientz, J., Chesters, A., Slovak, P. (2025) Uncovering Parental Struggles: Using Digital Probes to Analyse Challenges in Applying Online Parenting Content. ACM Trans. Compt.-Hum.Interact. (August 2025). https://doi.org/10.1145/3762810)
 
 Ibrahim, S., Klasnja, P., Gross, J., & Slovak, P. 2025. Designing Daily Supports for Parent-Child Conversations about Emotion: Ecological Momentary Assessment as Intervention. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, 21 pages. https://doi.org/10.1145/3706598.3713848 – Honorable mention paper award (within top 5% of 5,014 submissions)
@@ -48,22 +48,22 @@ Ibrahim, S., Vasalou, A. & Clarke, M. (2018) Design Opportunities for AAC and Ch
 
 Ibrahim, S., Clarke, M. & Brumby, D. (2015) Ask & I’ll Tell you: Involving children in the evaluation of devices. Proceedings of Communication Matters Conference CM2015, Leeds-UK.
 
-## Doctoral thesis
+**Doctoral thesis**
 Ibrahim, S. (2020). Communication and Non-Speaking Children with Physical Disabilities: Opportunities and Reflections from Design-Oriented Research. UCL.
 
-## Workshop contributions, magazine articles, posters & symposiums
+**Workshop contributions, magazine articles, posters & symposiums**
 Ibrahim, S. & Vasalou, A. (2021) Voice and representation: engaging with the voices of children who have disabilities. Interactions. Vol. 28, No. 3. DOI: 10.1145/3457881
 
 Ibrahim, S. (2017) Designing Communication Technologies with Children who have Severe Speech and Physical Impairments.. Doctoral Consortium Participant at Interaction Design & Children Conference IDC2017, Stanford-USA.
 
 Vasalou, A. & Ibrahim, S (2016) PD for Children with SEND: Why Trustworthiness Matters. Proposal for workshop on Children’s Roles and Values at Interaction Design & Children Conference IDC2016, Manchester-UK.
 
-## Invited Talks
+**Invited Talks**
 Women in Informatics conference, KCL. Title of talk: Investigating and designing for in-situ parenting support with technology, March 2023.
 
 Human Computer Interaction BSc/MSc module, King’s College London (KCL). Title of talk: HCI as an interdisciplinary field, November 2022.
 
-MULTIMODALITY TALKS Series held across UCL Visual and Multimodal Research Forum, University of Leeds Multimodality@Leeds and the University of Stockholm: Communication and non speaking children with physical disabilities: The issue of recognition, December 2020 [talk recording here, Zoom login may be needed]
+MULTIMODALITY TALKS Series held across UCL Visual and Multimodal Research Forum, University of Leeds Multimodality@Leeds and the University of Stockholm: Communication and non speaking children with physical disabilities: The issue of recognition, December 2020.
 
 UCL Knowledge Lab Seminar Series – “Communication in non-speaking children with physical disabilities: design-oriented research”, June 2019.
 
