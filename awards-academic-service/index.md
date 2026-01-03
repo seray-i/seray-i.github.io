@@ -1,5 +1,5 @@
 ---
-title: Awards & Academic Service
+title: Awards + Academic Service
 ---
 
 ## Grants & funding
