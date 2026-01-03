@@ -8,14 +8,14 @@ exclude_from_nav: true
 <style>
 .about-container {
   display: grid;
-  grid-template-columns: 1fr 200px;
+  grid-template-columns: 1fr 170px;
   gap: 30px;
   align-items: start;
   margin-bottom: 30px;
 }
 .about-container img {
-  width: 200px;
-  height: 200px;
+  width: 170px;
+  height: 170px;
   border-radius: 50%;
   object-fit: cover;
 }
@@ -44,6 +44,4 @@ Informed by interdisciplinary training across speech and language therapy, human
   </div>
 </div>
 
-I have a publication record and best paper awards in premier international conferences such as the Conference on Human Factors in Computing Systems (CHI) and Interaction Design and Children (IDC). I have published across journals that include Disability and Society, AAC journal and British Journal of Educational Technology. Beyond academia, I regularly work with colleagues from the NHS, charity sector and school settings to generate impactful solutions based on evidence based research.
-
-For pre-prints of publications please see [ResearchGate](https://www.researchgate.net/profile/Seray-Ibrahim){:target="_blank"}.
+I have a publication record and best paper awards in premier international conferences such as the Conference on Human Factors in Computing Systems (CHI) and Interaction Design and Children (IDC). I have published across journals that include Disability and Society, AAC journal and British Journal of Edu
