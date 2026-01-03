@@ -43,5 +43,4 @@ Informed by interdisciplinary training across speech and language therapy, human
     <img src="/seray_pic_round.png" alt="My Photo">
   </div>
 </div>
-
 I have a publication record and best paper awards in premier international conferences such as the Conference on Human Factors in Computing Systems (CHI) and Interaction Design and Children (IDC). I have published across journals that include Disability and Society, AAC journal and British Journal of Edu
