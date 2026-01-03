@@ -11,7 +11,7 @@ exclude_from_nav: true
   grid-template-columns: 1fr 170px;
   gap: 30px;
   align-items: start;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 .about-container img {
   width: 170px;
