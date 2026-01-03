@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 permalink: /
+exclude_from_nav: true
 ---
 
 <style>
