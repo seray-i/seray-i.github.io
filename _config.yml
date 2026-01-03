@@ -7,7 +7,7 @@ url: "https://https://seray-i.github.io"
 
 # Navigation links
 nav:
-  - home: /about/
+  - home: /
   - projects: /projects/
   - publications: /publications/
-  - awards + academic service: /awards-academic-service/
+  - honours + service: /honours-service/
