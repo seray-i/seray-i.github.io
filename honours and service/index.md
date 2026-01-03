@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards + Academic Service
+title: honours and service
 nav_order: 4
 ---
 
