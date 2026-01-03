@@ -5,7 +5,7 @@ theme: minima
 
 # Navigation links
 nav:
-  - Home: /about/
-  - Projects: /projects/
-  - Publications: /publications/
-  - Academic Service / Awards: /academic-service-awards/
+  - home: /about/
+  - projects: /projects/
+  - publications: /publications/
+  - awards + academic service: /awards-academic-service/
