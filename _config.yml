@@ -4,11 +4,4 @@ description: Seray Ibrahim
 theme: minima
 markdown: kramdown
 baseurl: "" # Leave empty if repo name matches username.github.io
-url: "https://https://seray-i.github.io"
-
-# Navigation links
-nav:
-  - home: /
-  - projects: /projects/
-  - publications: /publications/
-  - Honours and service: /honours-service/
+url: "https://seray-i.github.io"
