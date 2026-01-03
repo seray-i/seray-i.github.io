@@ -63,6 +63,18 @@ Vasalou, A. & Ibrahim, S (2016) PD for Children with SEND: Why Trustworthiness M
 
 **Invited Talks**
 
+Workshop on AAC, Social Robotics, and Conversational AI, University of Groningen -	April ’25.
+Focus: An interactive discussion with Dr Mike Clarke on AI priorities for social interaction across the lifespan.
+
+Human Computer Interaction BSc/MSc module lecture, King’s College London – Dec ’23, ‘24.
+Title of talk: ‘Understanding Users: Cross-Disciplinary Methods for Studying Parenting and Child Mental Health’. 	
+
+The Neurodiversity for Connected Learning Symposium, Chiba Institute of Technology, Japan – Sep ’23. Title of talk: ‘Neurodiversity and Mental Health’.
+
+Project Converse symposium, University at Buffalo and University of North Carolina at Chapel Hill – June ‘23. Title of talk: AAC Mediated Interactions in the Multimodal Classroom. 	
+
+Career talk with final year BSc students, University of East Anglia Speech & Language Therapy – 	April ‘23. Title of talk: From Clinical Practice to Academic Research. 
+
 Women in Informatics conference, KCL. Title of talk: Investigating and designing for in-situ parenting support with technology, March 2023.
 
 Human Computer Interaction BSc/MSc module, King’s College London (KCL). Title of talk: HCI as an interdisciplinary field, November 2022.
