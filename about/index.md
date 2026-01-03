@@ -1,5 +1,7 @@
 ---
-title: About me
+layout: page
+title: About Me
+exclude: true
 ---
 <div class="side-by-side">
  <img src="/seray_pic_round.png" alt="My Photo" width="250">
