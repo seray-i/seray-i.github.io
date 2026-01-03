@@ -40,6 +40,7 @@ nav_order: 4
 
 - 2025: Conference on Human Factors in Computing (CHI'25) – Honourable mention paper award – top 5% of 5,014 submitted papers – First-authored work on Ecological Momentary Assessment as intervention.
 - 2025: Conference on Human Factors in Computing (CHI'25) – Honourable mention paper award – top 5% of 5,014 submitted papers – Co-authored work on micro-narratives as a scalable story elicitation tool.
+- 2025: AAC Journal Editor's Choice Away for 2023 - First-authored work based on PhD research paper: Common Ground in AAC 
 - 2024: SIGACCESS Conference on Computers and Accessibility – Best paper award nominee, co-authored work on designing mixed reality AAC devices.
 - 2023: Special recognition for 'outstanding reviews' CHI 2024 for 3 papers
 - 2020: Interaction Design & Children (IDC'20) – Best paper award out of 172 submitted papers – First-authored work on Design Documentaries for disability and design
