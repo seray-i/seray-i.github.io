@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Honours and service
+nav_title: Honours and Service
 nav_order: 4
 ---
 
