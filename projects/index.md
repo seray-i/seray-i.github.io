@@ -47,7 +47,7 @@ My PhD research took a design oriented approach to investigate communication tha
 
 <div class="project-box" markdown="1">
 
-**From role-play to situated feedback: re-envisioning child mental health promotion interventions with digital technology**
+**From Role-Play to Situated Feedback: Re-envisioning Child mMntal Health Promotion Interventions with Digital Technology**
 
 At King's College London, in my role a Postdoctoral Research Associate on [Dr Petr Slovak's UKRI Future Leader's Fellowship](https://petrslovak.com/flf/){:target="_blank"}, I led on developing innovative approaches to parenting intervention delivery. The focus was on combining: 
 - (i) qualitative research on the challenges faced by parents in existing programmes; with 
