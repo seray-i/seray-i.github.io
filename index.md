@@ -3,7 +3,9 @@ layout: page
 title: About Me
 permalink: /
 ---
-![My Photo](/seray_pic_round.png){: width="250" style="float: left; margin-right: 20px; border-radius: 50%;"}
+<div class="side-by-side" markdown="1">
+ <img src="/seray_pic_round.png" alt="My Photo" width="250">
+<div markdown="1">
 
 I am a Lecturer (Assistant Professor) in the [School of Health and Social Care](https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
 
@@ -17,5 +19,8 @@ Informed by my interdisciplinary training across speech and language therapy, hu
 - Mental health interventions for children and parents
 
 I have a publication record and best paper awards in premier international conferences such as the Conference on Human Factors in Computing Systems (CHI) and Interaction Design and Children (IDC). I have published across journals that include Disability and Society, AAC journal and British Journal of Educational Technology. Beyond academia, I regularly work with colleagues from the NHS, charity sector and school settings to generate impactful solutions based on evidence based research.
+
+</div>
+</div>
 
 For pre-prints of publications please see [ResearchGate](https://www.researchgate.net/profile/Seray-Ibrahim).
