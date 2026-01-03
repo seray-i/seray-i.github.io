@@ -36,7 +36,7 @@ In Proceedings of the 23rd Annual ACM Interaction Design and Children Conference
 Ibrahim, S., Rui, J., Petsolari, M., Michelson, R., Dong, Y., Theofanopoulou, N., Davis, K. & Slovak, P. 
 Proceedings of the ACM on Human-Computer Interaction (PACM HCI): The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW’24). 
 
-[Aligned Co-Design: An Interdependent, Multi-Modal Method for People with Motor and Communication Disabilities.](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2436038){:target="_blank"} 
+[Aligned Co-Design: An Interdependent, Multi-Modal Method for People with Motor and Communication Disabilities.](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2436038){:target="_blank"}
 Beneteau, E., Hiniker, A., Tench, B., Ibrahim, S., & Pratt, W. 
 International Journal of Human–Computer Interaction.
  
