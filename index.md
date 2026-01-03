@@ -3,9 +3,22 @@ layout: page
 title: About Me
 permalink: /
 ---
-<div class="side-by-side" markdown="1">
- <img src="/seray_pic_round.png" alt="My Photo" width="250">
-<div markdown="1">
+
+<style>
+.about-content img {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+.about-content {
+  overflow: auto;
+}
+</style>
+
+<div class="about-content" markdown="1">
+
+![My Photo](/seray_pic_round.png){: width="250"}
 
 I am a Lecturer (Assistant Professor) in the [School of Health and Social Care](https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
 
@@ -21,4 +34,5 @@ I have a publication record and best paper awards in premier international confe
 For pre-prints of publications please see [ResearchGate](https://www.researchgate.net/profile/Seray-Ibrahim).
 
 </div>
-</div>
+sistant Professor) in the [School of Health and Social Care](https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
+
