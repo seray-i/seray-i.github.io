@@ -6,15 +6,8 @@ markdown: kramdown
 baseurl: "" # Leave empty if repo name matches username.github.io
 url: "https://seray-i.github.io"
 
-# Social media links (these appear in the footer)
-minima:
-  social_links:
-    - platform: bluesky
-      user_url: "https://bsky.app/profile/serayibrahim.bsky.social"
-      title: Bluesky
-    - platform: linkedin
-      user_url: "https://www.linkedin.com/in/seray-ibrahim-5244b83b/"
-    - platform: google_scholar
-      user_url: "https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao"
-    - platform: researchgate  
-      user_url: "https://www.researchgate.net/profile/Seray-Ibrahim"
+# Specify which pages appear in header navigation
+header_pages:
+  - projects/index.md
+  - publications/index.md
+  - honours-service/index.md
