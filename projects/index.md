@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Projects
----
----
-title: Projects
+permalink: /projects/
+nav_order: 2
 ---
 
 # From role-play to situated feedback: re-envisioning child mental health promotion interventions with digital technology
