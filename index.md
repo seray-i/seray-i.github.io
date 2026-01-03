@@ -7,7 +7,7 @@ permalink: /
  <img src="/seray_pic_round.png" alt="My Photo" width="250">
 <div>
  <p>
-I am a lecturer (assistant professor) in the [School of Health and Social Care](https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
+I am a Lecturer (Assistant Professor) in the [School of Health and Social Care](https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. 
 My research explores the design and use of digital technology for supporting social interaction. 
 Informed by my interdisciplinary training across speech and language therapy, human computer interaction (HCI), augmentative and alternative communication (AAC), multimodality and psychology, I am committed to bringing together different disciplinary perspectives and innovative methods to examine and address complex social problems. 
  </p>
