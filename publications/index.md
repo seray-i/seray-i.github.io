@@ -5,18 +5,15 @@ permalink: /publications/
 nav_order: 3
 ---
 
-Here are selected recent peer-reviewed papers and talks. A full list of publications can be found [here](https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao){:target="_blank"} 
+Here are selected, recent peer-reviewed papers and talks. A full list of publications can be found [here](https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao){:target="_blank"} 
 
 **Conferences and Journals**
 
 **2025**
 
-[Uncovering Parental Struggles: Using Digital Probes to Analyse Challenges in Applying Online Parenting Content](https://doi.org/10.1145/3762810){:target="_blank"}. 
-Ibrahim, S., Dabrowski, J., Antle, A., Kientz, J., Chesters, A., Slovak, P. ACM Trans. Compt.-Hum.Interact.
-
 [Designing Daily Supports for Parent-Child Conversations about Emotion: Ecological Momentary Assessment as Intervention.](https://doi.org/10.1145/3706598.3713848){:target="_blank"} 
 Ibrahim, S., Klasnja, P., Gross, J., & Slovak, P.
-CHI Conference on Human Factors in Computing Systems (CHI ’25), Yokohama, Japan – **Honorable mention paper award (within top 5% of 5,014 submissions)**
+CHI Conference on Human Factors in Computing Systems (CHI ’25), Yokohama, Japan – **Honorable mention paper award**
 
 [The Interaction Layer: An Exploration for Co-Designing User-LLM Interactions in Parental Wellbeing Support Systems.](https://doi.org/10.1145/3706598.3714088){:target="_blank"} 
 Viswanathan, S., Ibrahim, S., Shankar, R., Binns, R., Van Kleek, M., and Slovak, P.  
@@ -24,7 +21,10 @@ CHI ’25, Yokohama, Japan.
 
 [Micro-narratives: A Scalable Method for Eliciting Stories of People’s Lived Experience.](https://doi.org/10.1145/3706598.3713999){:target="_blank"} 
 Amira Skeggs, A., Mehta, A., Yap, V., Ibrahim, S., Rhodes, A., Gross, J., Munson, S., Klasnja, P., Orben, A., and Slovak, P. 
-CHI ’25, Yokohama, Japan - **Honorable mention paper award (within top 5% of 5,014 submissions)**
+CHI ’25, Yokohama, Japan - **Honorable mention paper award**
+
+[Uncovering Parental Struggles: Using Digital Probes to Analyse Challenges in Applying Online Parenting Content](https://doi.org/10.1145/3762810){:target="_blank"}. 
+Ibrahim, S., Dabrowski, J., Antle, A., Kientz, J., Chesters, A., Slovak, P. ACM Trans. Compt.-Hum.Interact.
 
 **2024**
 
@@ -35,7 +35,6 @@ In Proceedings of the 23rd Annual ACM Interaction Design and Children Conference
 [Understanding Online Parental Help-Seeking and Help-Giving in Early Childhood: The Design Challenges of Supporting Complex Parenting Questions.](https://dl.acm.org/doi/10.1145/3653690){:target="_blank"}
 Ibrahim, S., Rui, J., Petsolari, M., Michelson, R., Dong, Y., Theofanopoulou, N., Davis, K. & Slovak, P. 
 Proceedings of the ACM on Human-Computer Interaction (PACM HCI): The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW’24). 
-
 
 [Aligned Co-Design: An Interdependent, Multi-Modal Method for People with Motor and Communication Disabilities](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2436038). {:target="_blank"} 
 Beneteau, E., Hiniker, A., Tench, B., Ibrahim, S., & Pratt, W. 
