@@ -7,13 +7,13 @@ permalink: /
 <style>
 .about-container {
   display: grid;
-  grid-template-columns: 250px 1fr;
+  grid-template-columns: 200px 1fr;
   gap: 30px;
   align-items: start;
 }
 .about-container img {
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
 }
