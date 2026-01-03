@@ -61,7 +61,7 @@ I worked closely with Clinical Psychologists at South London and the Maudesley H
 
 <div class="project-box" markdown="1">
 
-**iRead – personalised reading apps for primary school children**
+**iRead – Personalised Reading Apps for Primary School Children**
 
 I was a postdoctoral researcher on the [EU H2020 iRead project](http://cordis.europa.eu/project/reference/731724){:target="_blank"}. iRead was a 4-year (2017-2020) project that aimed to develop personalised learning technologies to support reading skills. The designed technologies combine a diverse set of personalised learning applications and teaching tools for formative assessment. We focused on primary school children across Europe, learning to read and learning english as a foreign language including children with dyslexia who are at risk of exclusion from their education. The project comprised 15 partners from across industry and education in 8 European countries and was organised into three strands: innovation, design and evaluation, with different expected outcomes and stakeholders. Further info available via [iRead Project Website](https://iread-project.eu/){:target="_blank"}
 
