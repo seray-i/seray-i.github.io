@@ -69,6 +69,6 @@ nav_order: 4
 
 - Certified Member of Royal College of Speech & Language Therapists (cert. MRCSLT), 2004 – current
 - Health and Care Professions Council (HCPC) registered, 2004 – current
-- Member of the Association for Computing Machinery (ACM)
+- Member of the Association for Computing Machinery (ACM) 2018 - present
 
 </div>
