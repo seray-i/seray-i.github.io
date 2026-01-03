@@ -36,7 +36,7 @@ In Proceedings of the 23rd Annual ACM Interaction Design and Children Conference
 Ibrahim, S., Rui, J., Petsolari, M., Michelson, R., Dong, Y., Theofanopoulou, N., Davis, K. & Slovak, P. 
 Proceedings of the ACM on Human-Computer Interaction (PACM HCI): The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW’24). 
 
-[Aligned Co-Design: An Interdependent, Multi-Modal Method for People with Motor and Communication Disabilities](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2436038). {:target="_blank"} 
+[Aligned Co-Design: An Interdependent, Multi-Modal Method for People with Motor and Communication Disabilities.](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2436038){:target="_blank"} 
 Beneteau, E., Hiniker, A., Tench, B., Ibrahim, S., & Pratt, W. 
 International Journal of Human–Computer Interaction.
  
@@ -60,7 +60,7 @@ British Journal of Educational Technology.
 
 **2022**
 
-{Understanding the Situated Practices of School Technology Leaders in the Early Stages of Educational Technology Adoption.}(https://doi.org/10.1145/3491102.3502120){:target="_blank"}
+[Understanding the Situated Practices of School Technology Leaders in the Early Stages of Educational Technology Adoption.](https://doi.org/10.1145/3491102.3502120){:target="_blank"}
 Ibrahim, S., Vasalou, A., & Benton, L. 
 CHI'22, New Orleans, LA. 
 
@@ -82,7 +82,7 @@ International Journal of Child-Computer Interaction.
 
 [Can Design documentaries Disrupt Design for Disability?](https://dl.acm.org/doi/10.1145/3392063.3394403){:target="_blank"} 
 Ibrahim, S., Vasalou, A. & Clarke, M.
-Proceedings of the ACM Interaction Design and Children Conference 2020 – **Best paper award**
+IDC'20 – **Best paper award**
 
 **2018**
 
@@ -90,7 +90,7 @@ Proceedings of the ACM Interaction Design and Children Conference 2020 – **Bes
 Ibrahim, S., Vasalou, A. & Clarke, M. 
 CHI'18, Montreal QC, Canada – **Honorable mention award**
 
-[From Behavioral and Communication Intervention to Interaction Design: User Perspectives from Clinicians.](https://dl.acm.org/doi/10.1145/3234695.3241480):target="_blank"} 
+[From Behavioral and Communication Intervention to Interaction Design: User Perspectives from Clinicians.](https://dl.acm.org/doi/10.1145/3234695.3241480){:target="_blank"} 
 Du, Y., Boyd, L.E. & Ibrahim, S. 
 Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility: Extended Abstracts. Gallway, Ireland.
 
