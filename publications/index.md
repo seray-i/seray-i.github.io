@@ -22,7 +22,7 @@ nav_order: 3
 }
 </style>
 
-Here are selected, recent peer-reviewed papers and talks. A full list of publications can be found [here](https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao){:target="_blank"} 
+Here are selected, recent peer-reviewed papers and talks. A full list of publications can be found [here.](https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao){:target="_blank"} 
 
 <h2 class="section-title">Conferences and Journals</h2>
 
