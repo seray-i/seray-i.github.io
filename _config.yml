@@ -2,6 +2,8 @@
 title: Seray Ibrahim
 description: Seray Ibrahim
 theme: minima
+baseurl: "" # Leave empty if repo name matches username.github.io
+url: "https://https://seray-i.github.io"
 
 # Navigation links
 nav:
