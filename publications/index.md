@@ -66,15 +66,15 @@ ACM Transactions on Computer-Human Interaction Journal.
 
 **2024**
 
-[A Systematic Review of the Probes Method in Research with Children and Families.](https://doi.org/10.1145/3628516.3655814){:target="_blank"}
+[A Systematic Review of the Probes Method in Research with Children and Families.](https://doi.org/10.1145/3628516.3655814){:target="_blank"} 
 Ibrahim, S., Antle, A.N., Kientz, J.A., Pullin, G., and Slovak, P. 
 ACM Interaction Design and Children Conference (IDC'24). 
 
-[Understanding Online Parental Help-Seeking and Help-Giving in Early Childhood: The Design Challenges of Supporting Complex Parenting Questions.](https://dl.acm.org/doi/10.1145/3653690){:target="_blank"}
+[Understanding Online Parental Help-Seeking and Help-Giving in Early Childhood: The Design Challenges of Supporting Complex Parenting Questions.](https://dl.acm.org/doi/10.1145/3653690){:target="_blank"} 
 Ibrahim, S., Rui, J., Petsolari, M., Michelson, R., Dong, Y., Theofanopoulou, N., Davis, K. & Slovak, P. 
 ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW'24). 
 
-[Aligned Co-Design: An Interdependent, Multi-Modal Method for People with Motor and Communication Disabilities.](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2436038){:target="_blank"}
+[Aligned Co-Design: An Interdependent, Multi-Modal Method for People with Motor and Communication Disabilities.](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2436038){:target="_blank"} 
 Beneteau, E., Hiniker, A., Tench, B., Ibrahim, S., & Pratt, W. 
 International Journal of Human–Computer Interaction.
  
@@ -82,7 +82,7 @@ International Journal of Human–Computer Interaction.
 Curtis, H., Jenkins, A., Ibrahim, S. & Neate, T.  
 ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'24) – **Best paper award nominee**
 
-[Socio-technical Imaginaries: Envisioning and Understanding AI Parenting Supports through Design Fiction.](https://doi.org/10.1145/3613904.3642619){:target="_blank"}
+[Socio-technical Imaginaries: Envisioning and Understanding AI Parenting Supports through Design Fiction.](https://doi.org/10.1145/3613904.3642619){:target="_blank"} 
 Petsolari, M., Ibrahim, S. & Slovak, P. 
 ACM CHI Conference on Human Factors in Computing Systems (CHI'24), Honolulu, Hawaiʻi. 
 
@@ -92,11 +92,11 @@ ACM CHI Conference on Human Factors in Computing Systems (CHI'24), Honolulu, Haw
 
 **2023**
 
-[Common ground in AAC: how children who use AAC and teaching staff shape interaction in the multimodal classroom.](https://doi.org/10.1080/07434618.2023.2283853){:target="_blank"}
+[Common ground in AAC: how children who use AAC and teaching staff shape interaction in the multimodal classroom.](https://doi.org/10.1080/07434618.2023.2283853){:target="_blank"} 
 Ibrahim, S., Clarke, M., Vasalou, A., & Bezemer, J. (2023) 
 AAC Journal - **Editor's Choice Award 2025**
 
-[Exploring how children with reading difficulties respond to instructional supports in literacy games and the role of prior knowledge.](https://doi.org/10.1111/bjet.13318){:target="_blank"}
+[Exploring how children with reading difficulties respond to instructional supports in literacy games and the role of prior knowledge.](https://doi.org/10.1111/bjet.13318){:target="_blank"} 
 Benton, L., Joye, N., Sumner, E., Gauthier, A., Ibrahim, S. & Vasalou, A.
 British Journal of Educational Technology. 
 
@@ -106,7 +106,7 @@ British Journal of Educational Technology.
 
 **2022**
 
-[Understanding the Situated Practices of School Technology Leaders in the Early Stages of Educational Technology Adoption.](https://doi.org/10.1145/3491102.3502120){:target="_blank"}
+[Understanding the Situated Practices of School Technology Leaders in the Early Stages of Educational Technology Adoption.](https://doi.org/10.1145/3491102.3502120){:target="_blank"} 
 Ibrahim, S., Vasalou, A., & Benton, L. 
 ACM CHI Conference on Human Factors in Computing Systems (CHI'22), New Orleans, LA. 
 
