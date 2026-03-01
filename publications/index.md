@@ -182,32 +182,46 @@ Vasalou, A. & Ibrahim, S (2016) PD for Children with SEND: Why Trustworthiness M
 
 <div class="content-box" markdown="1">
 
-Workshop on AAC, Social Robotics, and Conversational AI, University of Groningen -	April '25.
+**The Pennsylvania State University, Pennsylvania** - Visiting Scholar, 16-20 February '26.
+Title of talk(s): Designing Digital Interventions with Multiple Stakeholders; How Can Clinicians and Researchers Support Children’s Voices in AAC Decisions? Methods, Opportunities, and Challenges.
+
+**University of Groningen, Netherlands** - Workshop on AAC, Social Robotics, and Conversational AI, April '25.
 Focus: An interactive discussion with Dr Mike Clarke on AI priorities for social interaction across the lifespan.
 
-Human Computer Interaction BSc/MSc module lecture, King's College London – Dec '23, '24.
+**King's College London, London** - Human Computer Interaction BSc/MSc module lecture, Dec '23, '24.
 Title of talk: 'Understanding Users: Cross-Disciplinary Methods for Studying Parenting and Child Mental Health'. 	
 
-The Neurodiversity for Connected Learning Symposium, Chiba Institute of Technology, Japan – Sep '23. Title of talk: 'Neurodiversity and Mental Health'.
+**Chiba Institute of Technology, Japan** - The Neurodiversity for Connected Learning Symposium – Sep '23. 
+Title of talk: 'Neurodiversity and Mental Health'.
 
-Project Converse symposium, University at Buffalo and University of North Carolina at Chapel Hill – June '23. Title of talk: AAC Mediated Interactions in the Multimodal Classroom. 	
+**University at Buffalo, NY and University of North Carolina at Chapel Hill** - Project Converse symposium,  June '23. 
+Title of talk: AAC Mediated Interactions in the Multimodal Classroom. 	
 
-Career talk with final year BSc students, University of East Anglia Speech & Language Therapy – 	April '23. Title of talk: From Clinical Practice to Academic Research. 
+**University of East Anglia, Norwich** - Career talk for final year Speech & Language Therapy BSc students,	April '23. 
+Title of talk: From Clinical Practice to Academic Research. 
 
-Women in Informatics conference, KCL. Title of talk: Investigating and designing for in-situ parenting support with technology, March 2023.
+**King's College London, London** - Women in Informatics conference, March 2023.
+Title of talk: Investigating and designing for in-situ parenting support with technology.
 
-Human Computer Interaction BSc/MSc module, King's College London (KCL). Title of talk: HCI as an interdisciplinary field, November 2022.
+**King's College London, London** - Human Computer Interaction BSc/MSc module, November 2022.
+Title of talk: HCI as an interdisciplinary field.
 
-MULTIMODALITY TALKS Series held across UCL Visual and Multimodal Research Forum, University of Leeds Multimodality@Leeds and the University of Stockholm: Communication and non speaking children with physical disabilities: The issue of recognition, December 2020.
+**University of Leeds Multimodality@Leeds and the University of Stockholm** - MULTIMODALITY TALKS Series held across UCL Visual and Multimodal Research Forum, December 2020.
+Title of talk: Communication and non speaking children with physical disabilities: The issue of recognition. 
 
-UCL Knowledge Lab Seminar Series – "Communication in non-speaking children with physical disabilities: design-oriented research", June 2019.
+**University College London, London** - UCL Knowledge Lab Seminar Series, June 2019.
+Title of talk: Communication in non-speaking children with physical disabilities: design-oriented research.
 
-UCL Multimodality MA student lecture – "Conversing without speech", March 2019, also March 2020.
+**University College London, London** - UCL Multimodality MA student lecture, March 2019, also March 2020.
+Title of talk: Conversing without speech.
 
-Great Ormond Street Hospital, Neurodisability Team CPD seminar series – "Designing digital technologies for communication and children who have severe speech and physical impairments", June 2018.
+**Great Ormond Street Hospital, London** - Neurodisability Team CPD seminar series, June 2018.
+Title of talk: Designing digital technologies for communication and children who have severe speech and physical impairments.
 
-City University – The Centre for Human Computer Interaction Design Seminar Series – "Designing digital technologies for communication and children who have severe speech and physical impairments", May 2018.
+**City University, London** – The Centre for Human Computer Interaction Design Seminar Series, May 2018.
+Title of talk: Designing digital technologies for communication and children who have severe speech and physical impairments.
 
-Whitefields School Research Network – "Involving children in the evaluation of augmentative communication", November 2016.
+**Whitefields School, London** –  Research Network, November 2016.
+Title of talk: Involving children in the evaluation of augmentative communication. 
 
 </div>
