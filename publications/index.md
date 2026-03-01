@@ -30,7 +30,7 @@ Here are selected, recent peer-reviewed papers and talks. A full list of publica
 
 **2026**
 
-[From Ephemeral to Actionable: Parent Perspectives on Speculative Family Speech Tracking.] (https://doi.org/10.1145/3772318.3790844){:target="_blank"} 
+[From Ephemeral to Actionable: Parent Perspectives on Speculative Family Speech Tracking.](https://doi.org/10.1145/3772318.3790844){:target="_blank"} 
 Ibrahim, S., Constantinides, M., Ppali, S. & Slovak, P.
 CHI Conference on Human Factors in Computing Systems (CHI '26), Barcelona, Spain. - *forthcoming* 
 
