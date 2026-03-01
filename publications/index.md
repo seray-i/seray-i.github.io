@@ -148,11 +148,10 @@ ACM Interaction Design & Children Conference (IDC'20) – **Best paper award**
 Ibrahim, S., Vasalou, A. & Clarke, M.<br>
 ACM CHI Conference on Human Factors in Computing Systems (CHI'18), Montreal QC, Canada – **Honorable mention award**
 
-[From Behavioral and Communication Intervention to Interaction Design: User Perspectives from Clinicians.](https://dl.acm.org/doi/10.1145/3234695.3241480){:target="_blank"}<br>
-Du, Y., Boyd, L.E. & Ibrahim, S.<br>
+[From Behavioral and Communication Intervention to Interaction Design: User Perspectives from Clinicians.](https://dl.acm.org/doi/10.1145/3234695.3241480){:target="_blank"} Du, Y., Boyd, L.E. & Ibrahim, S.<br>
 ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'18): Extended Abstracts. Gallway, Ireland.
 
-Rethinking Technology Design for and with Children who have Severe Speech and Physical Disabilities.<br>
+[Rethinking Technology Design for and with Children who have Severe Speech and Physical Disabilities.](https://www.researchgate.net/publication/321051619_Rethinking_technology_design_for_and_with_children_who_have_severe_speech_physical_disabilities){:target="_blank"}<br>
 Ibrahim, S., Clarke, M. & Vasalou, A.<br>
 Communication Matters Journal, Aug 2018 Vol. 32(2).
 
@@ -172,7 +171,7 @@ University College London. 2020.
 
 <div class="content-box" markdown="1">
 
-Voice and representation: engaging with the voices of children who have disabilities.<br>
+[Voice and representation: engaging with the voices of children who have disabilities.](https://interactions.acm.org/archive/view/may-june-2021/voice-and-representation){:target="_blank"}<br>
 Ibrahim, S. & Vasalou, A. (2021)<br>
 Interactions. Vol. 28, No. 3. DOI: 10.1145/3457881
 
