@@ -38,6 +38,7 @@ nav_order: 4
 
 <div class="content-box" markdown="1">
 
+- 2026: Special recognition for 'outstanding review' CHI 2026  
 - 2025: Conference on Human Factors in Computing (CHI'25) – Honourable mention paper award – top 5% of 5,014 submitted papers – First-authored work on Ecological Momentary Assessment as intervention.
 - 2025: Conference on Human Factors in Computing (CHI'25) – Honourable mention paper award – top 5% of 5,014 submitted papers – Co-authored work on micro-narratives as a scalable story elicitation tool.
 - 2025: AAC Journal Editor's Choice Award for 2023 - First-authored work based on PhD research paper: Common Ground in AAC 
