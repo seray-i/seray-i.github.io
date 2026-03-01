@@ -172,7 +172,7 @@ University College London. 2020.
 <div class="content-box" markdown="1">
 
 [Voice and representation: engaging with the voices of children who have disabilities.](https://interactions.acm.org/archive/view/may-june-2021/voice-and-representation){:target="_blank"} Ibrahim, S. & Vasalou, A. (2021)<br>
-Interactions. Vol. 28, No. 3. DOI: 10.1145/3457881
+ACM Interactions. Vol. 28, No. 3. DOI: 10.1145/3457881
 
 Designing Communication Technologies with Children who have Severe Speech and Physical Impairments. Ibrahim, S. (2017)<br>
 Doctoral Consortium Participant at Interaction Design & Children Conference IDC2017, Stanford-USA.
