@@ -21,6 +21,6 @@ minima:
       
 header_pages:
   - projects/index.md
-  - publication/index.md
+  - publications/index.md
   - talks/index.md
   - honours-service/index.md
