@@ -18,3 +18,9 @@ minima:
       user_url: "https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao"
     - platform: researchgate  
       user_url: "https://www.researchgate.net/profile/Seray-Ibrahim"
+
+header_pages:
+  - Projects/index.md
+  - Publications/index.md
+  - Invited Talks/index.md
+  - Honours and service/index.md
