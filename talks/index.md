@@ -23,8 +23,6 @@ nav_order: 3
 </style>
 
 
-<h2 class="section-title">Invited Talks</h2>
-
 <div class="content-box" markdown="1">
 
 **The Pennsylvania State University, Pennsylvania** - Visiting Scholar, 16-20 February '26.<br>
