@@ -22,7 +22,6 @@ nav_order: 3
 }
 </style>
 
-
 <div class="content-box" markdown="1">
 
 **The Pennsylvania State University, Pennsylvania** - Visiting Scholar, 16-20 February '26.<br>
