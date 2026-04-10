@@ -16,7 +16,7 @@ minima:
       user_url: "https://www.linkedin.com/in/seray-ibrahim-5244b83b/"
     - platform: google_scholar
       user_url: "https://scholar.google.com/citations?user=09aZAr4AAAAJ&hl=en&inst=5619824916424573706&oi=ao"
-    - platform: researchgate  
+    - platform: researchgate
       user_url: "https://www.researchgate.net/profile/Seray-Ibrahim"
       
 header_pages:
