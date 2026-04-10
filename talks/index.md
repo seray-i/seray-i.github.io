@@ -2,7 +2,7 @@
 layout: page
 title: Invited Talks
 permalink: /talks/
-nav_order: 4
+nav_order: 3
 ---
 
 <style>
