@@ -19,3 +19,8 @@ minima:
     - platform: researchgate  
       user_url: "https://www.researchgate.net/profile/Seray-Ibrahim"
       
+header_pages:
+  - projects/index.md
+  - publication/index.md
+  - talks/index.md
+  - honours-service/index.md
