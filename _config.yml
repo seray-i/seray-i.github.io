@@ -6,12 +6,6 @@ markdown: kramdown
 baseurl: "" # Leave empty if repo name matches username.github.io
 url: "https://seray-i.github.io"
 
-header_pages:
-  - Projects/index.md
-  - Publications/index.md
-  - Invited Talks/index.md
-  - Honours and service/index.md
-
 # Social media links (these appear in the footer)
 minima:
   social_links:
