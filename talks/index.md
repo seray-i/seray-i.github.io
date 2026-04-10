@@ -33,10 +33,10 @@ Focus: An interactive discussion with Dr Mike Clarke on AI priorities for social
 **King's College London, London** - Human Computer Interaction BSc/MSc module lecture, Dec '23, '24.<br>
 Title of talk: 'Understanding Users: Cross-Disciplinary Methods for Studying Parenting and Child Mental Health'. 	
 
-**Chiba Institute of Technology, Japan** - The Neurodiversity for Connected Learning Symposium – Sep '23.<br>
+**Chiba Institute of Technology & Digital Garage, Japan & Connected Learning Alliance, U.S.** - The Neurodiversity for Connected Learning Symposium – Sep '23.<br>
 Title of talk: 'Neurodiversity and Mental Health'.
 
-**University at Buffalo, NY and University of North Carolina at Chapel Hill** - Project Converse symposium,  June '23.<br>
+**University at Buffalo, NY & University of North Carolina at Chapel Hill** - Project Converse symposium,  June '23.<br>
 Title of talk: AAC Mediated Interactions in the Multimodal Classroom. 	
 
 **University of East Anglia, Norwich** - Career talk for final year Speech & Language Therapy BSc students,	April '23.<br> 
