@@ -182,6 +182,3 @@ PD for Children with SEND: Why Trustworthiness Matters. Vasalou, A. & Ibrahim, S
 Proposal for workshop on Children's Roles and Values at Interaction Design & Children Conference IDC2016, Manchester-UK.
 
 </div>
-
-<h2 class="section-title">Invited Talks</h2>
-
