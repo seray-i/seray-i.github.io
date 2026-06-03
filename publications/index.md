@@ -32,11 +32,11 @@ Here are selected, recent peer-reviewed papers and talks. A full list of publica
 
 [From Ephemeral to Actionable: Parent Perspectives on Speculative Family Speech Tracking.](https://doi.org/10.1145/3772318.3790844){:target="_blank"}<br>
 Ibrahim, S., Constantinides, M., Ppali, S. & Slovak, P.<br>
-ACM CHI Conference on Human Factors in Computing Systems (CHI'26), Barcelona, Spain. - *forthcoming* 
+ACM CHI Conference on Human Factors in Computing Systems (CHI'26), Barcelona, Spain.
 
 [Before the Technological Fix: Scoping AI and AAC for Social Futures.](https://doi.org/10.1145/3772363.3798436){:target="_blank"}<br>
 Ibrahim, S., Griffiths, T., Clarke, M., Judge, S., Slovak, P., Pullin, G., & Higginbotham, J.<br>
-Extended abstracts, ACM CHI Conference on Human Factors in Computing Systems (CHI '26), Barcelona, Spain. - *forthcoming* 
+Extended abstracts, ACM CHI Conference on Human Factors in Computing Systems (CHI '26), Barcelona, Spain.
 
 </div>
 
