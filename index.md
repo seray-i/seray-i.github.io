@@ -33,9 +33,9 @@ permalink: /
 <div class="about-container">
   <div markdown="1">
 
-I am a Lecturer (Assistant Professor) in the [School of Health and Social Care](https://www.essex.ac.uk/departments/health-and-social-care) at University of Essex. My research explores the design and use of digital technology for supporting social interaction. 
+I am a Lecturer (Assistant Professor) in the [Division of Digital Health and Applied Technology Assessment, Florence Nightingale Faculty of Nursing, Midwifery & Palliative Care](https://www.kcl.ac.uk/nmpc/research/research-divisions/digital-health-applied-technology) at King's College London. My research explores the design and use of digital technology for supporting social interaction, health and wellbeing. 
 
-Informed by interdisciplinary training across speech and language therapy, human computer interaction (HCI), and multimodality, I am committed to bringing together different disciplinary perspectives and innovative methods to examine and address complex social problems.
+Informed by interdisciplinary training across human computer interaction (HCI), speech and language therapy, and multimodality, I am committed to bringing together different disciplinary perspectives and innovative methods to examine and address complex social problems.
 
   </div>
   <div>
@@ -43,6 +43,6 @@ Informed by interdisciplinary training across speech and language therapy, human
   </div>
 </div>
 
-I have a publication record and best paper awards in premier international conferences such as the Conference on Human Factors in Computing Systems (CHI) and Interaction Design and Children (IDC). I have published across journals that include Disability and Society, AAC journal and British Journal of Educational Technology. Beyond academia, I regularly work with colleagues from the NHS, charity sector and school settings to generate impactful solutions based on evidence based research.
+I have a publication record and best paper awards in premier international conferences such as the Conference on Human Factors in Computing Systems (CHI) and Interaction Design and Children (IDC). I have published across journals that include ACM Transactions on Computer-Human Interaction (TOCHI), Disability and Society, AAC journal and British Journal of Educational Technology. Beyond academia, I regularly work with colleagues from the NHS, charity sector and school settings to generate impactful solutions based on evidence based research.
 
 For pre-prints of publications please see [ResearchGate](https://www.researchgate.net/profile/Seray-Ibrahim).
