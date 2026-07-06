@@ -38,6 +38,10 @@ ACM CHI Conference on Human Factors in Computing Systems (CHI'26), Barcelona, Sp
 Ibrahim, S., Griffiths, T., Clarke, M., Judge, S., Slovak, P., Pullin, G., & Higginbotham, J.<br>
 Extended abstracts, ACM CHI Conference on Human Factors in Computing Systems (CHI '26), Barcelona, Spain.
 
+[Imagining New Youth-Centred Social Media Interventions: A Large-Scale Design Fiction Study](https://osf.io/preprints/psyarxiv/6dvgp_v1){:target="_blank"}<br>
+Skeggs, A., Dorin, D., Yap, V., Ibrahim, S., Orben, A., & Slovak, P.<br>
+PsyArXiv.
+
 </div>
 
 <div class="content-box" markdown="1">
