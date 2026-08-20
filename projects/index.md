@@ -48,6 +48,15 @@ My PhD research took a design oriented approach to investigate communication tha
 
 <div class="project-box" markdown="1">
 
+**Enhancing Family Connections: Boosting Parent Engagement with Digital Parenting Resources**
+
+Together with Dr Petr Slovak, we were granted an EPSRC Impact Acceleration Account award to transfer and implement novel user-centred design methods within an NHS Child and Adolescent Mental Health Service and in Place2Be, a leading UK parenting non-profit organisation. 
+We worked with the organisations to help adapt their core provision through user-centred design and co-production. Key outcomes were (1) the development of situated and indirect intervention intervention tools for families who are on waiting lists for therapy, and (2) improved parent engagement with an online parenting course. 
+
+</div>
+
+<div class="project-box" markdown="1">
+
 **From Role-Play to Situated Feedback: Re-envisioning Child Mental Health Promotion Interventions with Digital Technology**
 
 At King's College London, in my role a Postdoctoral Research Associate on [Dr Petr Slovak's UKRI Future Leader's Fellowship](https://petrslovak.com/flf/){:target="_blank"}, I led on developing innovative approaches to parenting intervention delivery. The focus was on combining: 
