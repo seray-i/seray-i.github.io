@@ -42,6 +42,10 @@ Extended abstracts, ACM CHI Conference on Human Factors in Computing Systems (CH
 Skeggs, A., Dorin, D., Yap, V., Ibrahim, S., Orben, A., & Slovak, P.<br>
 PsyArXiv.
 
+[A Cross-Community Agenda for Speech AI.](https://mariateleki.github.io/pdf/CrossCommunityAgenda.pdf){:target="_blank"}<br>
+Teleki, M., Wenzel, K.V., Choi, A.S.G., Weinberg, T., Satish, S.H.B., Sanchez, S., Ticona, B., Sanchez, A., Sonkar, Y., Mathur, A., Minixhofer, K., Glasser, A., Kushalnagar, R., Caverlee, C., Lee, M., Wu, S., Zisk, A.H., Székely, É., Gaines, D., Veres, A.S., Ibrahim, S., Cummins, N., Koenecke, A.<br>
+ArXiv.
+
 </div>
 
 <div class="content-box" markdown="1">
